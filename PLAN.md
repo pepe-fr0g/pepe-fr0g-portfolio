@@ -2,7 +2,7 @@
 
 ## Goals
 
-* Implement javaScript to introduce interative elements
+* Implement javaScript to introduce interactive elements
 * implement a dock with dropdown menus
 * make a professional grade website
 * use animations
@@ -16,3 +16,12 @@
 * finish styling[Nov 27]
 * finish animations[Nov 28]
 * clean up[Nov 29]
+
+## Layout
+
+* About me
+* Programming goals
+* Current and previous projects
+* Strengths
+* Weaknesses
+* Contact information
