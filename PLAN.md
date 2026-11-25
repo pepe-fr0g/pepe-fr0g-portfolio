@@ -10,7 +10,7 @@
 ## Timeline
 
 - [x] create layout[Nov 23]
-- [ ] finish text[Nov 24]
+- [x] finish text[Nov 24]
 - [ ] implement javascript features for dock and anything else[Nov 25]
 - [ ] finish dock[Nov 26]
 - [ ] finish styling[Nov 27]
