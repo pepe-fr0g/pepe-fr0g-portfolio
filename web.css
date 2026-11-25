@@ -1,3 +1,8 @@
-p {
+.main {
+    color: green;
     text-align: center;
+}
+
+.list {
+    text-align: left;
 }
