@@ -1,8 +1,40 @@
-.main {
-    color: green;
+body {
+    color: gray;
     text-align: center;
+    background-color:rgb(19, 33, 33);
 }
 
 .list {
     text-align: left;
+}
+
+.center {
+    width: 80%;
+    padding: 30px;
+    margin: auto;
+    background-color: rgb(25, 25, 25);
+}
+
+header {
+    position: fixed;
+    align-items: center;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    width: 100%;
+    background-color: rgb(13, 23, 23);
+    border-bottom: 3px solid rgba(0, 0, 0, .1);
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    background-color: rgb(13, 23, 23);
+    border-top: 3px solid rgba(0, 0, 0, .1);
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }

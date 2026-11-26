@@ -11,9 +11,9 @@
 
 - [x] create layout[Nov 23]
 - [x] finish text[Nov 24]
-- [ ] implement javascript features for dock and anything else[Nov 25]
+- [ ] finish styling[Nov 25]
 - [ ] finish dock[Nov 26]
-- [ ] finish styling[Nov 27]
+- [ ] implement javascript features for dock and anything else[Nov 27]
 - [ ] finish animations[Nov 28]
 - [ ] clean up[Nov 29]
 
