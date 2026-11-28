@@ -1,7 +1,25 @@
+html {
+    scroll-padding-top: 45px;
+}
+
+header {
+    text-align: center;
+}
+
 body {
+    background-color: rgb(19, 33, 33);
+}
+
+#main {
+    margin-top: 45px;
+}
+
+#main,
+footer {
     color: gray;
     text-align: center;
-    background-color:rgb(19, 33, 33);
+    margin-right: 0;
+    margin-left: 160px;
 }
 
 .list {
@@ -32,9 +50,28 @@ header {
 footer {
     background-color: rgb(13, 23, 23);
     border-top: 3px solid rgba(0, 0, 0, .1);
-    width: 100%;
-    bottom: 0;
-    left: 0;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+#sidenav {
+    position: fixed;
+    height: 100%;
+    width: 160px;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    background-color: rgb(13, 23, 23);
+    padding-top: 45px;
+}
+
+#sidenav a {
+    display: block;
+    padding: 5px 0px 5px 10px;
+    
+}
+
+a:link {
+    color: gray;
 }
